@@ -1,8 +1,8 @@
 backend:
-  name: github
-  repo: zenix/gatsby-test
+  name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
+local_backend: true
 media_folder: static/img
 public_folder: /img
 
